@@ -14,6 +14,4 @@ The model was trained and evaluated on the following dataset:
 **COVID19, Pneumonia and Normal Chest X-ray PA Dataset**: [Dataset link](https://data.mendeley.com/datasets/jctsfj2sfn/1)
 
 **Simulated Chest Xray Deblurring Dataset**: 
-[Mendeley Data link](https://data.mendeley.com/datasets/pjxpzkhbf7/1)
-
-[Drive Link](https://drive.google.com/drive/folders/1hi5i5t1sPngXcwma9jdB_plbD4TESI7K?usp=sharing)
+[Mendeley Data link](https://data.mendeley.com/datasets/pjxpzkhbf7/1), [Drive Link](https://drive.google.com/drive/folders/1hi5i5t1sPngXcwma9jdB_plbD4TESI7K?usp=sharing)
